@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">BuildASingleScreenApp</string>
+    <string name="head">This is Santiago Bernabeu Stadium, the home ground of Real Madrid which is the best football club in the world. This stadium is named after our former president Santiago Bernabeu. This stadium in like temple for Real Madrid fans.</string>
+    <string name="manager">Manager: Zinedine Zidane</string>
+    <string name="team">Team: Real Madrid</string>
+    <string name="location">Location: Madrid, Spain</string>
+
+</resources>
